@@ -1,2 +1,2 @@
 # Homepage
-personal repository for standard homepage to replace default Chrome/Firefox/Safari "recently visited" page
+personal repository for a standard homepage to replace the default Chrome/Firefox/Safari "recently visited" page
